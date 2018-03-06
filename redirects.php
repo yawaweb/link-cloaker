@@ -5,7 +5,7 @@
 * Website: www.yawaweb.com
 * Donate BTC: 1BoBFr6pYh3phS8iEs5jxxN2cihYxuMdgW
 * Donate ETH: 0xf197d28c9053C4fdfef6794CD80bcbf8886caAD9
-* Donate NEO: 
+* Donate NEO: AMKM4avT1iCimjoXJVZc5TeAiXVFe8d51m
 **/
 
 $myhomepage = 'https://your-homepage.com'; //Your Startpage
