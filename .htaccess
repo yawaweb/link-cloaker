@@ -1,3 +1,4 @@
 <IfModule mod_rewrite.c>
+RewriteCond %{REQUEST_URI} /go/
 RewriteRule ^go/([A-Za-z0-9-]+) redirects.php?affid=$1 [L]
 </IfModule>
