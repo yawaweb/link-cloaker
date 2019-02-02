@@ -1,12 +1,12 @@
 <?php
 
-/**
-* Name of developer: Ousama Yamine
-* Website: www.yawaweb.com
-* Donate BTC: 1BoBFr6pYh3phS8iEs5jxxN2cihYxuMdgW
-* Donate ETH: 0xf197d28c9053C4fdfef6794CD80bcbf8886caAD9
-* Donate NEO: AMKM4avT1iCimjoXJVZc5TeAiXVFe8d51m
-**/
+ /**
+ * Link Cloaker 1.0
+ *
+ * @copyright Copyright (c) 2019, Ousama Yamine
+ * @license http://opensource.org/licenses/mit-license.php MIT License
+ * @package link-cloaker
+ */
 
 $myhomepage = 'https://your-homepage.com'; //Your Startpage
 
